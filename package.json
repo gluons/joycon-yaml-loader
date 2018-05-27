@@ -4,6 +4,9 @@
   "description": "A YAML loader for JoyCon.",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc -p .",
     "pretest": "npm run build",
