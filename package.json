@@ -1,0 +1,60 @@
+{
+  "name": "joycon-yaml-loader",
+  "version": "1.0.0",
+  "description": "A YAML loader for JoyCon.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p .",
+    "pretest": "npm run build",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gluons/joycon-yaml-loader.git"
+  },
+  "keywords": [
+    "config",
+    "yml",
+    "yaml",
+    "loader",
+    "joycon",
+    "joycon-loader"
+  ],
+  "author": "Saran Tanpituckpong <sarunta@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gluons/joycon-yaml-loader/issues"
+  },
+  "homepage": "https://github.com/gluons/joycon-yaml-loader",
+  "peerDependencies": {
+    "joycon": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^22.2.3",
+    "@types/js-yaml": "^3.11.1",
+    "@types/node": "6",
+    "@types/pify": "^3.0.2",
+    "jest": "^23.0.0",
+    "joycon": "^1.0.3",
+    "ts-jest": "^22.4.6",
+    "tslint": "^5.10.0",
+    "tslint-config-gluons": "^1.0.5",
+    "typescript": "^2.8.3"
+  },
+  "dependencies": {
+    "js-yaml": "^3.11.0",
+    "pify": "^3.0.0"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.ts$": "ts-jest"
+    },
+    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.ts$",
+    "moduleFileExtensions": [
+      "ts",
+      "js",
+      "json",
+      "node"
+    ]
+  }
+}
