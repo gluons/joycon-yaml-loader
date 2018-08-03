@@ -42,7 +42,7 @@
     "joycon": "^1.0.3",
     "ts-jest": "^23.0.0",
     "tslint": "^5.10.0",
-    "tslint-config-gluons": "^1.0.5",
+    "tslint-config-gluons": "^2.0.0",
     "typescript": "^2.8.3"
   },
   "dependencies": {
