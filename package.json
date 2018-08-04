@@ -43,7 +43,7 @@
     "ts-jest": "^23.0.0",
     "tslint": "^5.10.0",
     "tslint-config-gluons": "^2.0.0",
-    "typescript": "^2.8.3"
+    "typescript": "^3.0.0"
   },
   "dependencies": {
     "js-yaml": "^3.11.0",
