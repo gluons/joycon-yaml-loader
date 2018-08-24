@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/gluons/joycon-yaml-loader",
   "peerDependencies": {
-    "joycon": "^1.0.3"
+    "joycon": "^2.0.0"
   },
   "devDependencies": {
     "@types/jest": "^23.0.0",
@@ -39,7 +39,7 @@
     "@types/node": "6",
     "@types/pify": "^3.0.2",
     "jest": "^23.0.0",
-    "joycon": "^1.0.3",
+    "joycon": "^2.0.0",
     "ts-jest": "^23.0.0",
     "tslint": "^5.10.0",
     "tslint-config-gluons": "^2.0.0",

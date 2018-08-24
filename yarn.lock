@@ -1829,11 +1829,9 @@ jest@^23.0.0:
     import-local "^1.0.0"
     jest-cli "^23.0.0"
 
-joycon@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/joycon/-/joycon-1.0.3.tgz#ff969a347734b5ab62b50e4cdbc649b96269e4f6"
-  dependencies:
-    json5 "^1.0.1"
+joycon@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/joycon/-/joycon-2.0.0.tgz#b7fe56d42ae42a865bd13b48b84156d4ca05edb4"
 
 js-tokens@^3.0.0, js-tokens@^3.0.2:
   version "3.0.2"
@@ -1906,12 +1904,6 @@ json-stringify-safe@~5.0.1:
 json5@^0.5.1:
   version "0.5.1"
   resolved "https://registry.yarnpkg.com/json5/-/json5-0.5.1.tgz#1eade7acc012034ad84e2396767ead9fa5495821"
-
-json5@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/json5/-/json5-1.0.1.tgz#779fb0018604fa854eacbf6252180d83543e3dbe"
-  dependencies:
-    minimist "^1.2.0"
 
 jsonfile@^4.0.0:
   version "4.0.0"
