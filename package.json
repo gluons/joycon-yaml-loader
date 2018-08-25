@@ -8,9 +8,11 @@
     "dist"
   ],
   "scripts": {
+    "prepublishOnly": "npm run build",
     "build": "tsc -p .",
+    "lint": "tslint -p .",
     "pretest": "npm run build",
-    "test": "jest"
+    "test": "npm run lint && jest"
   },
   "repository": {
     "type": "git",
