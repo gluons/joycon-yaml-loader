@@ -1,4 +1,5 @@
 # joycon-yaml-loader
+[![GitHub](https://img.shields.io/github/license/gluons/joycon-yaml-loader.svg?style=flat-square)](./LICENSE)
 [![npm](https://img.shields.io/npm/v/joycon-yaml-loader.svg?style=flat-square)](https://www.npmjs.com/package/joycon-yaml-loader)
 [![Travis (.com)](https://img.shields.io/travis/com/gluons/joycon-yaml-loader.svg?style=flat-square)](https://travis-ci.com/gluons/joycon-yaml-loader)
 
