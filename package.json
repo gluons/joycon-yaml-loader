@@ -50,6 +50,7 @@
     "pify": "^4.0.0"
   },
   "jest": {
+    "testEnvironment": "node",
     "transform": {
       "^.+\\.ts$": "ts-jest"
     },
