@@ -43,7 +43,7 @@
     "@types/jest": "^26.0.0",
     "@types/js-yaml": "^3.12.3",
     "@types/node": "12",
-    "@types/pify": "^3.0.2",
+    "@types/pify": "^5.0.0",
     "babel-jest": "^26.0.1",
     "jest": "^26.0.1",
     "joycon": "^2.2.5",
