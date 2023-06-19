@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "js-yaml": "^3.12.2",
-    "pify": "^5.0.0"
+    "pify": "^6.0.0"
   },
   "jest": {
     "testEnvironment": "node"
